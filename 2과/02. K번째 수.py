@@ -1,4 +1,4 @@
-2. K번째 수
+#02. K번째 수
 
 import sys
 #sys.stdin=open("input.txt", "rt")
