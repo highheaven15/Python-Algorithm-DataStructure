@@ -1,4 +1,4 @@
-1. 환경설정 및 K번째 약수 풀이
+#01. 환경설정 및 K번째 약수 풀이
 
 import sys
 #sys.stdin=open("input.txt", "rt")
